@@ -1,9 +1,9 @@
 # tuya_wechat
 
-涂鸦微信SDK开发
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
---------------------------------------
 
+涂鸦微信SDK开发
+--------------------------------------
 根据涂鸦智能开发的插排-微信小程序
 项目更新中....
 如果程序在Github上下载不全，请尝试下载wechat.7z
